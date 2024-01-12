@@ -13,7 +13,7 @@ To create an  model for tomatoes using Convolutional Neural Network (CNN), follo
    - After downloading, create two folders: one for training the model (train dataset) and another for validating/testing the model (validation dataset).
 
 3. Model Creation (MODEL file):
-   - Utilize a Python script to develop a CNN model for image classification. You can use popular deep learning frameworks like TensorFlow or PyTorch for this purpose. Ensure your model includes layers for convolution, pooling, flattening, and dense layers. Train the model using the training dataset.
+   - Utilize a Python script to develop a CNN model for image classification. You can use popular deep learning frameworks like TensorFlow  for this purpose. Ensure your model includes layers for convolution, pooling, flattening, and dense layers. Train the model using the training dataset.
 
 4.  Create Website:
    - Develop HTML files for your website. You need at least two files - `base.html` and `index.html`. `base.html` can contain the common structure (header, footer, etc.), while `index.html` will be the main page where users can interact with the model.
